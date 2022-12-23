@@ -28,7 +28,7 @@
         
         <h2>Login</h2>
         
-        <form action="" method="post">
+        < form  action = ""  method = "get" >
             
             <div class="inputBox">
              <input type="" name="" required="">
